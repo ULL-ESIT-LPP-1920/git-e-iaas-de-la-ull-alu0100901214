@@ -4,9 +4,9 @@
 
   Modifique este fichero para contenga:
 
-  * Nombre del alumno
-  * e-mail
-  * Hora del grupo de prácticas al que ha asistido:
+  * Sergio González Guerra
+  * alu0100901214@ull.edu.es
+  * Hora del grupo de prácticas al que ha asistido: Miércoles 12:00 - 13:00
 
 
 
